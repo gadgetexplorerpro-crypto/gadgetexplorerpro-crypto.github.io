@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aistudio.lingosphere.kxpqzm",
+      "sha256_cert_fingerprints": [
+        "86:34:49:AF:69:60:68:03:6C:80:21:A4:A9:5C:A8:15:E2:08:24:6C:49:65:8B:97:A9:C1:32:05:F8:54:0F:80",
+        "28:57:D8:D7:63:CA:AD:9C:88:3D:73:2B:AC:C9:2E:E7:26:83:55:71:DE:05:8E:D2:B5:7C:39:97:17:46:51:A9",
+        "74:55:D3:28:6B:28:2B:0C:12:68:72:28:5B:12:93:89:03:DB:4C:B9:53:1E:E0:07:85:67:69:38:58:26:95:CA"
+      ]
+    }
+  }
+]
